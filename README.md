@@ -1,5 +1,3 @@
-# Uncertainty-Aware-3D-Position-Refinement-for-Multi-UAV-Systems
-
 # Uncertainty-Aware 3D Position Refinement for Multi-UAV Systems
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
